@@ -165,3 +165,5 @@ ml-20m/
 .idea/
 samples/
 .DS_Store
+.csv
+exploration/charts
