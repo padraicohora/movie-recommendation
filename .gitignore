@@ -162,6 +162,7 @@ cython_debug/
 #.idea/
 
 ml-20m/
+ml-100k/
 .idea/
 samples/
 .DS_Store
