@@ -1,8 +1,8 @@
 import os
 from surprise import Reader, Dataset
 
-file_path = os.path.expanduser('../ml-100k/u.data')
-
+file_path = os.path.expanduser('ml-100k/u.data')
+print(file_path)
 
 # As we're loading a custom dataset, we need to define a reader. In the
 # movielens-100k dataset, each line has the following format:
